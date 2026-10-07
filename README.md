@@ -9,7 +9,7 @@ Personal portfolio website showcasing my projects, skills, certifications and in
 
 🔗 **Live site:** https://tharundurgaprasad.github.io/Portfolio-Website/
 
-![Portfolio Screenshot](screenshot.png)
+![Portfolio Screenshot](home-screenshot.png)
 
 ## About
 MCA student at SRKIT, Vijayawada, looking for entry-level Software Developer, QA/Test Engineer and Salesforce Administrator roles in Hyderabad, Visakhapatnam, Bangalore or remote.
