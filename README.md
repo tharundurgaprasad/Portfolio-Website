@@ -37,3 +37,5 @@ HTML, CSS, JavaScript
 ## Contact
 - GitHub: [tharundurgaprasad](https://github.com/tharundurgaprasad)
 - LinkedIn: [Tharun Durga Prasad Chowdada](https://www.linkedin.com/in/tharundurgaprasad-chowdada-49217b2a9)
+
+© Tharun Durga Prasad
